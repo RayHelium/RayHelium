@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @RayHelium from China.
-- 🌱 I’m currently learning C/C++ for my future development. And I am also interested in AI and python. I think those are ways to change the world. But I have not learned it yet.
+- 🌱 I’m currently learning C/C++ for my future development. And I am also interested in AI and python.
