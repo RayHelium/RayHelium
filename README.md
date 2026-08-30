@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @RayHelium from China.
+- 👋 Hi, looking at your MB
 - 🌱 I’m currently learning C/C++ for my future development. And I am also interested in AI and python.
